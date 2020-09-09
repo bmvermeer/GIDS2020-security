@@ -148,6 +148,8 @@ Click to see [Hint 7](https://github.com/bmvermeer/java-security-code-workshop/b
 
 ## Java Goof Installation
 
+**IMPORTANT: You have to run this application with Java 8**
+
 To start with, you’ll need to clone the java-goof repository, and build your application. The application can be found on GitHub here: [https://github.com/snyk/java-goof](https://github.com/snyk/java-goof).
 
 Clone the repository onto your local file system
@@ -171,9 +173,8 @@ $ mvn tomcat7:run
 
 From a browser navigate to the following URL: [http://localhost:8080/](http://localhost:8080/)
 
-You will see this application. It looks better than the Node application. Because Java is better than Node. Fact.
 
-![Java Goof homepage](images/image9.png)
+![Java Goof homepage](https://github.com/snyk/exploit-workshop/blob/master/images/image9.png)
 
 Click “Sign In” and use the following credentials:
 
@@ -186,7 +187,7 @@ When signed in, you’ll see a number of todo entries. If you click about at the
 
 ## Scan your application
 
-Back on the blue (defensive) team, now. We need to scan our application to understand the direct and indirect dependencies that exist in the application, as well as the vulnerabilities in each library.
+On the blue (defensive) team, now. We need to scan our application to understand the direct and indirect dependencies that exist in the application, as well as the vulnerabilities in each library.
 Fork Java Goof to your own github account. The application can be found on GitHub here: [https://github.com/snyk/java-goof](https://github.com/snyk/java-goof) 
 
 If you've already got a Snyk account from earlier in the workshop, you just need to add the Java Goof repository into the Snyk  dashboard. If you haven't done so, create your account as follows:
