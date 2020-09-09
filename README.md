@@ -22,25 +22,23 @@ In this step by step workshop, you'll learn how to exploit this Java application
 - Browser (preferably Chrome)
 - IDE / Code editor (with lombok plugin)
 
-# Introduction
-
-This workshop contains a demo Java application build on with Spring boot and Thymeleaf.
-It contains a number of security issues in the source code.
-During this workshop, you will locate, exploit and fix the vulnerabilities in this application.
-
-The vulnerabilities covered in this workshop:
-- XML External entity injection (XXE)
-- SQL injection
-- Cross-site scripting (XSS)
-- Encryption
-- 
-
 ## Installation 
 
-- Check out the repository [bmvermeer/java-security-code-workshop](https://github.com/bmvermeer/java-security-code-workshop)
-- go to the `java-code-workshop` folder
-- Run `mvn clean package`
-- Run `mvn spring-boot:run`
+To start with, you’ll need to clone the code-workshop repository, and build your application. The application can be found on GitHub here: https://github.com/snyk/java-goof. [bmvermeer/java-security-code-workshop](https://github.com/bmvermeer/java-security-code-workshop)
+
+Clone the repository onto your local file system
+```
+$ https://github.com/bmvermeer/java-security-code-workshop.git
+```
+
+Open a terminal and run the following command from the root directory:
+```
+$ mvn clean package
+```
+Run the application
+```
+mvn spring-boot:run
+```
 
 Alternatively, you can run this Spring boot app from your IDE if you wish to do that.
 
