@@ -1,11 +1,11 @@
 # GIDS 2020 Security Workshop
 
 This workshop is specifically created for the GIDS 2020 
-GIDS.JAVA Live Workshop (11 September 2020)
+[GIDS.JAVA Live Workshop (11 September 2020)](https://hopin.to/events/gids-java-live-workshop-11-september)
 
 GIDS.Java Live Workshop (11 September) features a 3.5 hours live workshop led by 
-- Steve Poole (DevOps Practitioner and Developer Advocate, IBM)
-- Brian Vermeer (Developer Advocate at Snyk)
+- [Steve Poole](https://www.wurreka.com/ict/virtual-conference/java/speaker/steve-poole) (DevOps Practitioner and Developer Advocate, IBM) 
+- [Brian Vermeer](https://www.wurreka.com/ict/virtual-conference/java/speaker/brian-vermeer) (Developer Advocate at Snyk)
 
 ## Java Application Security the Hard Way - Workshop for the Serious Developer
 
@@ -28,7 +28,7 @@ To start with, you’ll need to clone the code-workshop repository, and build yo
 
 Clone the repository onto your local file system
 ```
-$ https://github.com/bmvermeer/java-security-code-workshop.git
+$ git clone https://github.com/bmvermeer/java-security-code-workshop.git
 ```
 
 Open a terminal and run the following command from the root directory:
