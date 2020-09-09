@@ -1,11 +1,12 @@
 # GIDS 2020 Security Workshop
 
 This workshop is specifically created for the GIDS 2020 
-[GIDS.JAVA Live Workshop (11 September 2020)](https://hopin.to/events/gids-java-live-workshop-11-september)
 
-GIDS.Java Live Workshop (11 September) features a 3.5 hours live workshop led by 
-- [Steve Poole](https://www.wurreka.com/ict/virtual-conference/java/speaker/steve-poole) (DevOps Practitioner and Developer Advocate, IBM) 
+[GIDS.JAVA Live Workshop (11 September 2020)](https://hopin.to/events/gids-java-live-workshop-11-september) features a 3.5 hours live workshop led by 
+- [Steve Poole](https://www.wurreka.com/ict/virtual-conference/java/speaker/steve-poole) (DevOps Practitioner and Developer Advocate, IBM)
+  - [@spool167](https://twitter.com/spoole167)
 - [Brian Vermeer](https://www.wurreka.com/ict/virtual-conference/java/speaker/brian-vermeer) (Developer Advocate at Snyk)
+  - [@BrianVerm](https://twitter.com/BrianVerm)
 
 ## Java Application Security the Hard Way - Workshop for the Serious Developer
 
