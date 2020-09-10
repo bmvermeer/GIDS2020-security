@@ -150,6 +150,11 @@ Click to see [Hint 7](https://github.com/bmvermeer/java-security-code-workshop/b
 
 **IMPORTANT: You have to run this application with Java 8**
 
+
+> If you dont have Java 8 on your local machine you can also our prepared docker containers.
+> Download the [zipfile](https://drive.google.com/file/d/1ib05UaJv8C2nZxmgE0Iz-TNiDQ7AA9jX/view?usp=sharing) and follow the [installation guide](https://github.com/snyk/exploit-workshop/blob/master/install/javagoof_docker.md)
+
+
 To start with, you’ll need to clone the java-goof repository, and build your application. The application can be found on GitHub here: [https://github.com/snyk/java-goof](https://github.com/snyk/java-goof).
 
 Clone the repository onto your local file system
