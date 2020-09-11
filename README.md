@@ -25,7 +25,7 @@ In this step by step workshop, you'll learn how to exploit this Java application
 
 ## Installation 
 
-To start with, you’ll need to clone the code-workshop repository, and build your application. The application can be found on GitHub here: https://github.com/snyk/java-goof. [bmvermeer/java-security-code-workshop](https://github.com/bmvermeer/java-security-code-workshop)
+To start with, you’ll need to clone the code-workshop repository, and build your application. The application can be found on GitHub here: [bmvermeer/java-security-code-workshop](https://github.com/bmvermeer/java-security-code-workshop)
 
 Clone the repository onto your local file system
 ```
