@@ -88,7 +88,7 @@ Click to see [Hint 7](https://github.com/bmvermeer/java-security-code-workshop/b
 ## Assignment 2 Import
 
 On the import page, you can import new users by using an XML.
-We already created a sample XML file `users.xml` that you can use to import new users
+We already created a sample XML file `users.xml` that you can use to import new users. You can find this file in the `examples` folder.
 
 ![Import](https://github.com/bmvermeer/java-security-code-workshop/blob/master/images/import.png)
 
